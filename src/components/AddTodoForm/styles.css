@@ -1,0 +1,25 @@
+.add-todo-form {
+    width: 100%;
+    max-width: 700px;
+    display: flex;
+    align-items: center;
+}
+
+.add-todo-input {
+    font-size: 22px;
+    width: 100%;
+    outline: none;
+    padding: 20px;
+    border-radius: 50px;
+    margin: 20px;
+}
+
+.add-todo-button {
+    background-color: #902691;
+    width: 100px;
+    border-radius: 10px;
+    height: max-content;
+    margin: 0 auto;
+    padding: 20px 0;
+    border-color: none;
+}
